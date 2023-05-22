@@ -27,7 +27,7 @@
    "metadata": {},
    "outputs": [],
    "source": [
-    "### import the first libraries I need\n",
+    "### import first libraries i need\n",
     "import requests, io\n",
     "import zipfile as zfm\n",
     "import pandas as pd"
@@ -283,7 +283,7 @@
    "id": "11258065-6d2d-4380-b8bc-55c434fe3269",
    "metadata": {},
    "source": [
-    "wine dataset contains 14 (all-numerical) columns from which we are going to select the top 5 features"
+    "wine dataset contains 14 columns from which we are going to select the top 5 features"
    ]
   },
   {
@@ -459,17 +459,9 @@
    ]
   },
   {
-   "cell_type": "markdown",
-   "id": "f3e6accd-de1a-44a0-b3c6-d960fd37626c",
-   "metadata": {},
-   "source": [
-    "So these are the top five features that give the most information about the target variable."
-   ]
-  },
-  {
    "cell_type": "code",
    "execution_count": null,
-   "id": "09d0a0c5-5a7a-4020-9e77-450730dbb640",
+   "id": "2125939a-e6ca-4bbe-b92a-390df01aed58",
    "metadata": {},
    "outputs": [],
    "source": []
